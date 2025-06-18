@@ -48,10 +48,24 @@
         display: none;
     }
 }
+ @media (max-width: 890px) {
+      .logo-capmoney {
+        position: relative;
+        top: 70px;
+      }
+    }
 
  @media (max-width: 430px) {
       .logo-capmoney {
         position: relative;
         top: 70px;
+      }
+    }
+
+ /* Estilo para mover a logo 30px para cima quando a tela for 430px ou menor */
+    @media (max-width: 430px) {
+      .logo-capmoney {
+        position: relative;
+        bottom: 30px;
       }
     }
