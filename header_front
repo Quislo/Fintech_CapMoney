@@ -1,0 +1,10 @@
+<header class="w-screen bg-amber-400 h-16 flex items-center justify-center">
+    <nav>
+        <ul class="flex space-x-6 text-white font-semibold">
+            <li><a href="http://" class="hover:text-amber-900 transition">POST</a></li>
+            <li><a href="http://" class="hover:text-amber-900 transition">PUT</a></li>
+            <li><a href="http://" class="hover:text-amber-900 transition">GET</a></li>
+            <li><a href="http://" class="hover:text-amber-900 transition">DELETE</a></li>
+        </ul>
+    </nav>
+</header>
